@@ -4,7 +4,7 @@ The **SC² Lab** focuses on **Smart Construction and Smart Cities**, leveraging 
 Through this GitHub, public repositories related to our research projects are shared to support open science, reproducible research, and collaboration within the broader research community.
 </br></br>
 
-## Principal Investigator
+## Lab Director
 **Dr. Yoojun Kim**  
 Assistant Professor  
 Department of Civil Engineering  
