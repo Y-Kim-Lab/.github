@@ -1,12 +1,12 @@
 # Smart Construction & Smart Cities (SC²) Lab
-The **SC² Lab** focuses on **Smart Construction and Smart Cities**, leveraging advanced automation and information technologies to address critical challenges in the built environment and the communities it serves through **Cyber-Physical Systems (CPS)**.
+The **SC² Lab** conducts research in **Smart Construction and Smart Cities**, leveraging advanced automation and information technologies through **Cyber-Physical Systems (CPS)** to address critical challenges across the built environment and communities.
 
-Through this GitHub, public repositories related to our research projects are shared to support open science, reproducible research, and collaboration within the broader research community.
+This GitHub hosts public repositories related to our research projects to support open science, reproducible research, and collaboration within the broader research community.
 </br></br>
 
 ## Lab Director
 **Dr. Yoojun Kim**  
-Assistant Professor  
+Assistant Professor of Construction Management  
 Department of Civil Engineering  
 The University of Texas Rio Grande Valley (UTRGV) 
 
@@ -16,5 +16,5 @@ The University of Texas Rio Grande Valley (UTRGV)
 </br></br>
 
 ## Lab Members
-[Gitanjali Ghosh](https://www.linkedin.com/in/gitanjali-ghosh-83a338140/) – PhD Student, Department of Computer Science, UTRGV (Jan 2026 – Present)  
+[Gitanjali Ghosh](https://www.linkedin.com/in/gitanjali-ghosh-83a338140/) – PhD Student, Department of Computer Science, UTRGV (Jan 2026 – Present)  <br>
 [Karel Kishiko](https://www.linkedin.com/in/karel-kabulo/) – Master Student, Department of Civil Engineering, UTRGV (Apr 2026 – Present)
