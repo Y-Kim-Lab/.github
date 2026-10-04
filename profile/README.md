@@ -17,5 +17,6 @@ The University of Texas Rio Grande Valley (UTRGV)
 
 ## Lab Members
 [Gitanjali Ghosh](https://www.linkedin.com/in/gitanjali-ghosh-83a338140/) – PhD Student, Department of Computer Science, UTRGV (Jan 2026 – Present)  <br>
-[Karel Kishiko](https://www.linkedin.com/in/karel-kabulo/) – Master Student, Department of Civil Engineering, UTRGV (Apr 2026 – Present)
+[Karel Kishiko](https://www.linkedin.com/in/karel-kabulo/) – Master Student, Department of Civil Engineering, UTRGV (Apr 2026 – Present)  <br>
+[Yejin Yome](https://www.linkedin.com/in/yejin-yome-63339742b) – Master Student, Department of Civil Engineering, UTRGV (Jan 2027 – Present)
 </br></br>
